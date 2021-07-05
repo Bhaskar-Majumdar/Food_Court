@@ -31,7 +31,7 @@ h2{
     font-size: 40px;
 }
 p{
-    padding-bottom: 20px;
+    padding-bottom: 30px;
 }
 
 .order{
@@ -67,4 +67,22 @@ p{
     background-repeat: no-repeat;
     background-position-x:-40px;
 }
+.recipe{
+    text-align: center;
+    margin: 0px 300px;
+}
+
+.recipe-list{
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px greenyellow;  
+}
+.recipe-list img{
+    width: 390px;
+    margin: 5px 5px;
+}
+
 
