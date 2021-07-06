@@ -73,16 +73,27 @@ p{
 }
 
 .recipe-list{
-    width: 30%;
-    margin-left: 2%;
-    margin-right: 2%;
-    padding left: 20px;
-    border-radius: 10px;
-    box-shadow: 10px 10px 40px greenyellow;  
+    width: 22%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px greenyellow;
 }
 .recipe-list img{
-    width: 390px;
-    margin: 5px 5px;
+    width: 100%;
 }
 
-
+footer {
+    text-align: center;
+    background-color:darkslategray;
+}
+.youtube{
+    margin-top: 3%;
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 3%;
+    
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px greenyellow;
+}
